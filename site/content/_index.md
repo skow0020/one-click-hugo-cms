@@ -1,7 +1,7 @@
 ---
 title: Great coffee with a conscience and booty
 subtitle: Support sustainable farming while enjoying a cup
-image: /img/home-jumbotron.jpg
+image: /img/lq_logo_alternate_large_transparent-1.png
 blurb:
   heading: Why Kaldi?
   text: >-
