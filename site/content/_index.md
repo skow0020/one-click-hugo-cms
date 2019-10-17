@@ -1,21 +1,25 @@
 ---
-title: Great coffee with a conscience and booty
-subtitle: Support sustainable farming while enjoying a cup
+title: ' '
+subtitle: ' '
 image: /img/lq_logo_alternate_large_transparent-1.png
 blurb:
-  heading: Why Kaldi?
+  heading: About Literary Quicksand
   text: >-
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+    Hi! Welcome to Literary Quicksand. We’re a book blog based out of
+    Minneapolis, MN. We feature a group of women writers from multiple countries
+    who all come together over one thing: our love of books! We regularly post
+    book reviews, book lists, TBR roundups, and more.
 intro:
-  heading: What we offer
+  heading: Our Founder
   text: >-
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone.
+    I’m Joli Skow, and I had the idea for Literary Quicksand because I needed
+    something to keep me honest about writing. I have an English degree, so
+    being out of college, I miss the challenge of writing about what I’m
+    reading. Books are an extremely important part of my life. I love to read
+    them, hold them, smell them, sink into them as if they were quicksand.
+    They’re my safe place when the world is hard. It’s this passion and love for
+    books that led to my idea for a bookish blog, written by amazing ladies who
+    share my bookish passion.
 products:
   - image: img/illustrations-coffee.svg
     text: >-
