@@ -3,7 +3,7 @@ title: ' '
 subtitle: ' '
 image: /img/lq_logo_alternate_large_transparent-1.png
 blurb:
-  heading: Mr zach jenkins
+  heading: Mr zach jenkins sucks
   text: >-
     Hi! Welcome to Literary Quicksand. We’re a book blog based out of
     Minneapolis, MN. We feature a group of women writers from multiple countries
