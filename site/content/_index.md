@@ -11,15 +11,7 @@ blurb:
     book reviews, book lists, TBR roundups, and more.
 intro:
   heading: Our Founder
-  text: >-
-    I’m Joli Skow, and I had the idea for Literary Quicksand because I needed
-    something to keep me honest about writing. I have an English degree, so
-    being out of college, I miss the challenge of writing about what I’m
-    reading. Books are an extremely important part of my life. I love to read
-    them, hold them, smell them, sink into them as if they were quicksand.
-    They’re my safe place when the world is hard. It’s this passion and love for
-    books that led to my idea for a bookish blog, written by amazing ladies who
-    share my bookish passion.
+  text: stop reading ya bum
 products:
   - image: img/illustrations-coffee.svg
     text: >-
